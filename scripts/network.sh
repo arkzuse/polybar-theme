@@ -19,7 +19,7 @@ if [[ $network == *"wifi      connected"* ]]; then
     # fi
     echo 
 elif [[ $network == *"ethernet  connected"* ]]; then
-    echo ""
+    echo "󰈀"
 else
-    echo "睊"
+    echo "󰖪"
 fi
