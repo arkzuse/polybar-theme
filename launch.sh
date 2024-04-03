@@ -9,6 +9,6 @@ killall -q polybar
 polybar first 2>&1 | tee -a /tmp/polybar.log & disown
 polybar center 2>&1 | tee -a /tmp/polybar.log & disown
 polybar right 2>&1 | tee -a /tmp/polybar.log & disown
-# polybar example 2>&1 | tee -a /tmp/polybar.log & disown
+~/.config/polybar/scripts/nowPlayingLauncher.sh & disown
 
 echo "Polybar launched..."

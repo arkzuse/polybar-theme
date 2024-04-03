@@ -11,11 +11,13 @@
 - Volume
 - Network
 - Battery
+- Now Playing
 
 ### Dependencies-
 - Polybar
 - pulseaudio
 - python3 
+- playerctl
 
 ### Fonts-
 - JetBrains Mono Nerd Font
