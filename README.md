@@ -19,7 +19,6 @@ Bad quality gif :)
 ### Dependencies-
 - Polybar
 - pulseaudio
-- python3 
 - playerctl
 
 ### Fonts-
