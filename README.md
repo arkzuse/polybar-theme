@@ -3,6 +3,9 @@
 ### Preview-
 ![Preview](preview.png)
 
+Bad quality gif :)
+![gif](preview.gif)
+
 ### Features-
 - workspace indicator
 - RAM usage
